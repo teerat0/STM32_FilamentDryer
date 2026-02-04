@@ -13,4 +13,5 @@ This project is **unfinished** but actively being worked on. The finished projec
 
 
 # Circuit design plan
+ ## *A MOSFET will be used to control the motor too*   
 ![](./docs/plan.png)
